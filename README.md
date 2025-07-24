@@ -42,15 +42,11 @@ The notebook walks through the complete machine learning pipeline including:
 
 ## 📌 How to Run
 
-1. Clone the repo:
-    ```
-    git clone https://github.com/your-username/car-price-prediction.git
-    ```
-2. Install dependencies:
+1. Install dependencies:
     ```
     pip install -r requirements.txt
     ```
-3. Open the notebook in Jupyter:
+2. Open the notebook in Jupyter:
     ```
     jupyter notebook Predictive_Model_Development_Cars.ipynb
     ```
@@ -59,7 +55,7 @@ The notebook walks through the complete machine learning pipeline including:
 
 For questions or collaboration:
 **Sheraz Ahmed**  
-📧 sheraz.ahmed@upc.edu  
+📧 sherazahmedkhan@yahoo.com
 🌍 [LinkedIn](https://linkedin.com/in/sheraz-ahmed-khan)
 
 ---
